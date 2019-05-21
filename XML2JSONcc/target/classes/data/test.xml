@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <element>
+        <element1>Test</element1>
+        <element2>Element</element2>
+    </element>
+    <element3>
+        <element4>
+            <element5> New element</element5>
+        </element4>
+    </element3>
+</root>

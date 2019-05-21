@@ -1,0 +1,25 @@
+{
+  "name" : "root",
+  "text" : null,
+  "child" : [ {
+    "name" : "element1",
+    "text" : null,
+    "child" : [ {
+      "name" : "element2",
+      "text" : null,
+      "child" : [ {
+        "name" : "element3",
+        "text" : null,
+        "child" : [ {
+          "name" : "element4",
+          "text" : null,
+          "child" : [ {
+            "name" : "element5",
+            "text" : "5 elements",
+            "child" : [ ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

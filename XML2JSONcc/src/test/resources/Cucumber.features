@@ -1,0 +1,9 @@
+# language: ru
+@pow
+Функция: Чтение XML файла и запись его в JSON
+
+	Сценарий: Чтение XML файла
+	    Когда чтение файла из "src/main/resources/data/test"
+	    Пусть чтение строки "<root><element>Test</element></root>"
+	    Тогда корректная строка "src/main/resources/data/TestXML"
+	    Тогда результат "src/main/resources/data/test"

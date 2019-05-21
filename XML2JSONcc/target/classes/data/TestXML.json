@@ -1,0 +1,9 @@
+{
+  "name" : "root",
+  "text" : null,
+  "child" : [ {
+    "name" : "element",
+    "text" : "Test",
+    "child" : [ ]
+  } ]
+}

@@ -1,0 +1,13 @@
+{
+  "name" : "root",
+  "text" : null,
+  "child" : [ {
+    "name" : "element",
+    "text" : null,
+    "child" : [ {
+      "name" : "nextelement",
+      "text" : "correct",
+      "child" : [ ]
+    } ]
+  } ]
+}
